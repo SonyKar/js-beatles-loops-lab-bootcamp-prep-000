@@ -18,5 +18,9 @@ function johnLennonFacts(facts) {
   return tmp;
 }
 function iLoveTheBeatles(number) {
+  var tmp = [];
   
+  do {
+    
+  } while(number < 15);
 }
