@@ -5,4 +5,5 @@ function theBeatlesPlay(musicians, instruments) {
     strings[i].unshift(musicians[i] + " plays " + instruments[i]);
     i++;
   }
+  return strings;
 }
